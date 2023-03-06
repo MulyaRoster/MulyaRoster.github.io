@@ -1,0 +1,66 @@
+.about-me {
+  max-width: 800px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.about-me h1 {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+.about-me img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin-bottom: 40px;
+}
+
+.about-me p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 40px;
+}
+
+
+.product {
+    display: inline-block;
+    width: 45%;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
+  img {
+    width: 100%;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: rgb(158, 168, 172);
+    border: none;
+    border-radius: 5px;
+  }
+  
+
+  /* contact */
+
+  .contact-container {
+    text-align: center;
+  }
+
+  .contact-container img {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+  }
+    
+/* footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
